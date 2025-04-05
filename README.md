@@ -15,6 +15,11 @@
 
 ## How to install
 
+0. Склонируйте проект к себе:
+    ```bash
+    git clone https://github.com/vadyukkha/markdown-editor.git
+    ```
+
 1. Скачайте `Docker`, если он еще не установлен
 
 2. В терминале пропишите, чтобы собрать docker образ:
